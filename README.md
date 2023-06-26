@@ -1,5 +1,6 @@
 # Deu_Lernen 【德語小火車】
-<strong>Just a little project for my course.</strong> 
+<strong>Just a little project for my course. <br><br>
+Files here are not complete cuz I am not sure how to use Github properly</strong> 
 
 <h2>Introduction </h2>
 This is a little Game made with Pygame. <br><br>
